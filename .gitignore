@@ -1,0 +1,9 @@
+.chef
+*.swp
+.DS_Store
+.vagrant
+scripts/bootstrap-windows.rb
+.kitchen/
+.kitchen.local.yml
+foo
+dockerfiles
